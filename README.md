@@ -3,8 +3,8 @@ Information on the Affective Reactivity Index
 **Affective Reactivity Index (ARI)**  
 General Information  
 On this page you can find the parent- and self-report ARI scales and a paper reporting on its psychometrics:  
-•	English ARI-p (parent, see ari repo)   
-•	English ARI-s (self, see ari repo)   
+•	English ARI-p  (throughought, "p" stands for parent or carer reporting on their child).  
+•	English ARI-s   (throughought, "s" stands for young person reporting on themselves).  
 •	Stringaris et al 2012. The affective reactivity index: a concise irritability scale for clinical and research settings  
 The ARI is also available in various translations: please see below.  
 The ARI scales have been designed with busy clinicians and large studies in mind and are, therefore, concise. The individual items are scored 0,1, 2, and only the first six items are summed to form the total score--the seventh is an impairment item and it is analysed separately. There are a number of possibilities in terms of cut off. The easiest may be to divide the sum of the first six items by 6, by which you obtain a three-point scale corresponding to a three-level gradation of irritability severity. Another way is to use the following cut offs derived from a recent publication:  
