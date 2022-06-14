@@ -1,7 +1,7 @@
 # Affective Reactivity Index  
 Information on the Affective Reactivity Index
-**Affective Reactivity Index (ARI)**
-General Information
+**Affective Reactivity Index (ARI)**  
+General Information  
 On this page you can find the parent- and self-report ARI scales and a paper reporting on its psychometrics:
 •	English ARI-p (parent, see ari repo) 
 •	English ARI-s (self, see ari repo) 
