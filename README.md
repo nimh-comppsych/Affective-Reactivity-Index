@@ -1,4 +1,4 @@
-# ari
+# Affective Reactivity Index
 Information on the Affective Reactivity Index
 **Affective Reactivity Index (ARI)**
 General Information
