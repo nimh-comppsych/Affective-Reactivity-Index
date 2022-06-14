@@ -56,10 +56,17 @@ o	ARI-s – Korean (6 months) - translated by Hakjisa Publisher, Inc.
 
 **Key Publications involving the ARI**  
 Stringaris A, Goodman R, Ferdinando S, Razdan V, Muhrer E, Leibenluft E, Brotman MA (2012). The Affective Reactivity Index: A concise irritability scale for clinical and research settings. Journal of Child Psychology and Psychiatry, 53, 1109-1117. PMCID: PMC3484687.  
+
 Wiggins JL, Brotman MA, Adleman NE, Kim P, Oakes AH, Reynolds RC, Chen G, Pine DS, Leibenluft E (2016). Neural Correlates of Irritability in Disruptive Mood Dysregulation and Bipolar Disorders. American Journal of Psychiatry [in press].  
+
 Mikita N, Hollocks MJ, Papadopoulos AS, Aslani A, Harrison S, Leibenluft E, Simonoff E,　Stringaris A (2015). Irritability in boys with autism spectrum disorders: an investigation of physiological reactivity. Journal of Child Psychology and Psychiatry, 56(10):1118-1126.  
+
 Mulraney MA, Melvin GA and Tonge BJ (2014). Psychometric properties of the affective reactivity index in Australian adults and adolescents. Psychological Assessment, 26(1):148-55.  
+
 DeSousa DA, Stringaris A, Leibenluft E, Koller SH, Manfro GG & Salum GA (2013). Cross-cultural adaptation and preliminary psychometric properties of the Affective Reactivity Index in Brazilian youth : Implications for DSM-5 measured irritability. Trends in Psychiatry and Psychotherapy, 35(3):171-180.
+
+Evans SC, Abel MR, Doyle RL, Skov H, Harmon SL (2021) Measurement and correlates of irritability in clinically referred youth: Further examination of the Affective Reactivity Index. J Aff Dis 283:420-429
+
 **GitHub Repository of All Publications Citing the ARI (we have not updated this for a while)**   
 Please find this GitHub repository (https://github.com/nimh-comppsych/ARI-Papers) to see all publications using the ARI. The publications are broken out into three primary categories: psychometric, observational, and treatment. This repository includes each publication’s title, the authors, the publication journal, the year of publication, the DOI associated with the publication, the abstract, and the use of the ARI.   
 
