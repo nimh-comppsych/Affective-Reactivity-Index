@@ -48,6 +48,7 @@ o	ARI-s – Korean (6 months) - translated by Hakjisa Publisher, Inc.
 •	ARI-p - Spanish (Castilian) - translated by Pablo Vidal-Ribas　      
 •	ARI-s - Spanish (Castilian) - translated by Pablo Vidal-Ribas　      
 •	ARI-p - Swedish - translated by Dr　Anette Fjeldstad & Dr Peter Tallberg        　
+
 •	ARI-s - Swedish - translated by Dr　Anette Fjeldstad & Dr Peter Tallberg       　
 •	ARI-p - Turkish - translated by Dr Omer Koacel  
 •	ARI-s - Turkish - translated by Dr Omer Koacel  
