@@ -47,10 +47,10 @@ o	ARI-s – Korean (6 months) - translated by Hakjisa Publisher, Inc.
 •	ARI-s - Spanish (Latin America) - translated by Dr Andrea Abadi  
 •	ARI-p - Spanish (Castilian) - translated by Pablo Vidal-Ribas　  
 •	ARI-s - Spanish (Castilian) - translated by Pablo Vidal-Ribas　  
-•	ARI-p - Swedish - translated by Dr　Anette Fjeldstad & Dr Peter Tallberg  　
-•	ARI-s - Swedish - translated by Dr　Anette Fjeldstad & Dr Peter Tallberg　
+•	ARI-p - Swedish - translated by Dr　Anette Fjeldstad & Dr Peter Tallberg    　
+•	ARI-s - Swedish - translated by Dr　Anette Fjeldstad & Dr Peter Tallberg  　
 •	ARI-p - Turkish - translated by Dr Omer Koacel  
-•	ARI-s - Turkish - translated by Dr Omer Koacel  
+•	ARI-s - Turkish - translated by Dr Omer Koacel   
 **Key Publications involving the ARI**  
 Stringaris A, Goodman R, Ferdinando S, Razdan V, Muhrer E, Leibenluft E, Brotman MA (2012). The Affective Reactivity Index: A concise irritability scale for clinical and research settings. Journal of Child Psychology and Psychiatry, 53, 1109-1117. PMCID: PMC3484687.  
 Wiggins JL, Brotman MA, Adleman NE, Kim P, Oakes AH, Reynolds RC, Chen G, Pine DS, Leibenluft E (2016). Neural Correlates of Irritability in Disruptive Mood Dysregulation and Bipolar Disorders. American Journal of Psychiatry [in press].  
